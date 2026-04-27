@@ -1,0 +1,7 @@
+Flask==3.0.3
+firebase-admin==6.5.0
+spacy==3.7.5
+en-core-web-md @ https://github.com/explosion/spacy-models/releases/download/en_core_web_md-3.7.1/en_core_web_md-3.7.1-py3-none-any.whl
+openai==1.52.2
+requests==2.32.3
+beautifulsoup4==4.12.3

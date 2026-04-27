@@ -1,0 +1,9 @@
+.venv/
+git-store/
+.python_deps/
+.pip_cache/
+.pip_tmp/
+__pycache__/
+*.pyc
+.env
+firebase-service-account.json
